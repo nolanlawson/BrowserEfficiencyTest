@@ -69,7 +69,9 @@
     <Compile Include="Logger.cs" />
     <Compile Include="ResponsivenessTimer.cs" />
     <Compile Include="Scenarios\AboutBlank.cs" />
+    <Compile Include="Scenarios\AlexaTop5.cs" />
     <Compile Include="Scenarios\AzureDashboard.cs" />
+    <Compile Include="Scenarios\AlexaTop100.cs" />
     <Compile Include="Scenarios\EspnHomepage.cs" />
     <Compile Include="Scenarios\FastScenario.cs" />
     <Compile Include="Scenarios\CnnOneStory.cs" />
